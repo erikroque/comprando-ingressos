@@ -4,7 +4,7 @@ function comprar(){
     if(qtd > 0){
         testando(tipo, qtd);
     } else {
-        alert('Digite um número maior que zero.');
+        alert('Digite uma quantidade maior que zero.');
     }
     
 }
